@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #333;
+    background-color: #0040a1;
     color: #0040a1;
 }
 
@@ -261,3 +261,4 @@ body:not(.dark-mode) #sortOptions {
     color: var(--text-color, #ffffff);
 
 }
+
